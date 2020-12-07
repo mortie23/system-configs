@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Panda Syntax",
+  "[html]": {
+      "editor.rename.enablePreview": true,
+      "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "html.format.wrapLineLength": 0,
+  "window.zoomLevel": 0,
+  "files.associations": {
+      "*.tpt": "sql",
+      "*.jvar": "ini",
+      "*.jsx": "javascript",
+      "*.env": "ini",
+      "*.html": "html"
+  },
+  "editor.renderWhitespace": "all",
+  "[sql]": {
+      "editor.defaultFormatter": "ms-mssql.mssql"
+  },
+  "editor.fontFamily": "Cascadia Code PL",
+  "python.showStartPage": false,
+  "editor.tabSize": 2
+}
